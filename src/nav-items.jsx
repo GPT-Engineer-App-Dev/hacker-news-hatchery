@@ -6,7 +6,7 @@ import Index from "./pages/Index.jsx";
  */
 export const navItems = [
   {
-    title: "Hacker News",
+    title: "HN Top Stories",
     to: "/",
     icon: <Newspaper className="h-4 w-4" />,
     page: <Index />,
